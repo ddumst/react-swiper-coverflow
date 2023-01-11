@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import '~antd/dist/antd.css';
+
+:root {
+  --carousel-slider-max-width: 100vw;
+  --carousel-slider-width: 432px;
+  --carousel-slider-height: 600px;
+  --carousel-slider-navigation-color: #000;
+  --carousel-slider-pagination-color: #000;
+}
+
+@media only screen and (max-width: 520px) {
+  :root {
+    --carousel-slider-width: 70vw;
+    --carousel-slider-height: 70vh;
+  }
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#carousel-swiper .swiper-slide {
+  width: var(--carousel-slider-width);
+  height: var(--carousel-slider-height);
+  position: relative;
+}

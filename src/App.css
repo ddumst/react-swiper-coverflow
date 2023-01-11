@@ -1,0 +1,50 @@
+@import '~antd/dist/antd.css';
+
+.logo {
+  margin-right: 1rem;
+  width: 8rem;
+  img {
+    width: 100%;
+  }
+}
+
+.apg-breadcrumb-link {
+  cursor: pointer;
+  &:hover {
+    color: #007bff;
+  }
+}
+
+.ant-modal-close-x {
+  display: flex !important;
+  justify-content: center;
+}
+
+.anticon {
+  align-items: center;
+  display: flex !important;
+  justify-content: center;
+
+  &.anticon-vertical-align-top {
+    height: 2.5rem;
+  }
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #000000 #E6E6E6;
+}
+*::-webkit-scrollbar{
+  width: 0.375rem;
+  height: 0.375rem;
+}
+*::-webkit-scrollbar-thumb{
+  background: #000000;
+}
+*::-webkit-scrollbar-thumb:hover{
+  background: #6E7070;
+}
+*::-webkit-scrollbar-track{
+  background: #E6E6E6;
+  box-shadow: inset 0px 0px 0px 0px #F0F0F0;
+}
