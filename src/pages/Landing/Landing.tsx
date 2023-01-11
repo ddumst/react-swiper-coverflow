@@ -17,7 +17,7 @@ const Landing: FC = () => {
   const [ swiperEl, setSwiperEl ] = useState<HTMLElement>();
   const [ swiperWrapper, setSwiperWrapper ] = useState<HTMLElement>();
 
-  const pointerDownSlideListener = (event: any) => {
+  const pointerDownSlideListener = (event: Event) => {
     event.stopImmediatePropagation();
     event.preventDefault();
   };

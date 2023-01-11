@@ -5,7 +5,7 @@ import Layout from 'antd/lib/layout';
 
 import './App.css';
 
-import Landing from './app/Landing';
+import Landing from './pages/Landing';
 
 const App: FC = () => {
   return (
