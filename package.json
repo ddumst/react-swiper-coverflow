@@ -1,7 +1,16 @@
 {
-  "name": "apg-landing",
+  "name": "react-swiper",
   "version": "1.0.0",
   "private": true,
+  "keywords": [
+    "React",
+    "Typescript",
+    "Swiper",
+    "Custom"
+  ],
+  "author": "Diego Becerra Correa",
+  "license": "ISC",
+  "homepage": "https://wwww.twitter.com/ddumst",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@testing-library/jest-dom": "^5.12.0",
@@ -28,8 +37,8 @@
   },
   "scripts": {
     "dev": "cross-env PORT=4200 react-scripts start",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "tailwind": "npx tailwindcss -i ./src/index.css -o ./public/styles.css --watch",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
