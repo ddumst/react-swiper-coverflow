@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "keywords": [
-    "React",
-    "Typescript",
-    "Swiper",
-    "Custom"
+    "react",
+    "typescript",
+    "swiper",
+    "custom-code"
   ],
-  "author": "Diego Becerra Correa",
+  "author": "Diego Becerra Correa (@ddumst)",
   "license": "ISC",
   "homepage": "https://wwww.twitter.com/ddumst",
   "dependencies": {
