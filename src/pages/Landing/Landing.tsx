@@ -31,7 +31,9 @@ const Landing: FC = () => {
   return (
     <>
       <Content className="container text-center py-4 px-0">
-        <h1 className="text-4xl mb-4 mt-2">Welcome to the React + Swiper Coverflow Effect</h1>
+        <h1 className="text-3xl mb-2 mt-8">React + Swiper</h1>
+
+        <h5 className='mb-8'>by <a href="https://twitter.com/ddumst" target={"_blank"}>@dDumst</a></h5>
 
         <Swiper
           id="carousel-swiper"
