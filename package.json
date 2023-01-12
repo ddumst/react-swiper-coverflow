@@ -10,7 +10,7 @@
   ],
   "author": "Diego Becerra Correa (@ddumst)",
   "license": "ISC",
-  "homepage": "https://wwww.twitter.com/ddumst",
+  "homepage": "https://ddumst-react-swiper.vercel.app/",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@testing-library/jest-dom": "^5.12.0",
