@@ -26,7 +26,7 @@ Ejecuta tailwind para generar el archivo `styles.css` que tendrá todos los esti
 [![Twitter Follow](https://img.shields.io/twitter/follow/ddumst?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/ddumst?style=social)
 
-Soy un ingeniero de software con más de 6 años de experiencia en el desarrollo de aplicaciones. En los últimos 4 años, me he enfocado en el desarrollo de aplicaciones Frontend Web. Hace poco empecé a crear contenido para enseñar y compartir el conocimiento que tengo con la comunidad dev en español, el cual puedes encontrar en mis redes sociales como **[@ddumst](https://ddumst.dev)**.
+Hola, soy Diego Becerra, un ingeniero de software con más de 6 años de experiencia en el desarrollo de aplicaciones. En los últimos 4 años, me he enfocado en el desarrollo de aplicaciones Frontend Web. Hace poco empecé a crear contenido para enseñar y compartir el conocimiento que tengo con la comunidad dev en español, el cual puedes encontrar en mis redes sociales como **[@ddumst](https://ddumst.dev)**.
 
 [![Web](https://img.shields.io/badge/GitHub-dDumstDev-0076D1?style=for-the-badge&logo=github&logoColor=white&labelColor=23272A)](https://github.com/ddumst)
 
